@@ -2,6 +2,12 @@
 
 Logiciels et systèmes informatiques (LSI)
 
+cette archive contient les cours, TDs corrigés, Examens avec la correction , Projets
+
+# Why ? 
+
+       i love to share knowlegde , help people  , contribute to university progress . 
+
 # S1
     Architecture des ordinateurs & systèmes d'exploitation
 
@@ -63,4 +69,9 @@ https://drive.google.com/open?id=0B_eSZWPzkZtWbERZbDlPUEhKdUU
 #Download LSI 2 : 
 
 https://mega.nz/#!dplDCY6R!JdzeWZoExi3oGn88rhGxtGAyHCxQUz98h90Gs0KoMkw
+
+
+If you find this archive Please Share it With You classmate and dont let this treasure for yourself only . 
+
+
 
